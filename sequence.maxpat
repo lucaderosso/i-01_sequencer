@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 7,
 			"minor" : 0,
-			"revision" : 4,
+			"revision" : 5,
 			"architecture" : "x86",
 			"modernui" : 1
 		}
@@ -166,7 +166,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 402.0, 523.0, 30.0, 30.0 ],
-					"presentation_rect" : [ 402.0, 463.0, 0.0, 0.0 ],
 					"style" : ""
 				}
 
@@ -222,7 +221,7 @@
 						"appversion" : 						{
 							"major" : 7,
 							"minor" : 0,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -2731,8 +2730,8 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-49" : [ "rslider", "rslider", 0 ],
-			"obj-36" : [ "rslider[2]", "rslider", 0 ]
+			"obj-36" : [ "rslider[2]", "rslider", 0 ],
+			"obj-49" : [ "rslider", "rslider", 0 ]
 		}
 ,
 		"dependency_cache" : [  ],
